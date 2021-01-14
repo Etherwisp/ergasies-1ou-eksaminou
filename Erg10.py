@@ -15,4 +15,3 @@ def DictionaryDepth(dictionary):
         return Depth+1
     print("Biggest depth is",DictDepthFinder(dictionary,0))
 DictionaryDepth(dictionary)
-what the hell man!
